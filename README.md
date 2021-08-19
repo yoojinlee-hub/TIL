@@ -1,5 +1,5 @@
 # # Practice about many things
-* DALC (**Circles of data science in D.D.W.U**) [Dalc](https://github.com/yoojinlee-hub/DALC_Scala)
+* DALC (**Circles about data science in D.D.W.U**) [Dalc_Scala](https://github.com/yoojinlee-hub/DALC_Scala)
 * Java [Practice Java](https://github.com/yoojinlee-hub/Practice_JAVA)
 * C [Practice C](https://github.com/yoojinlee-hub/-Practice_C)
 * Python [Practice Python](https://github.com/yoojinlee-hub/Practice_python)
